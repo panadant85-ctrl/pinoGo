@@ -1,0 +1,7 @@
+{
+  "name": "Direct Commerce Hub",
+  "description": "Mobile-first operational hub for high-velocity WhatsApp direct commerce orders, rapid triage, state transitions, and customer messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
